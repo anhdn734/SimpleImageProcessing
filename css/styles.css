@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+.area {
+	float: left;
+	margin: 10px;
+}
+
+.area .title {
+	font-size: 17px;
+	font-family: Helvetica, Tahoma, Arial, sans-serif;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 10px;
+}
+
+.area canvas {
+	border: 1px solid #ccc;
+}
